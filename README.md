@@ -1,6 +1,6 @@
 ### Hey, thanks for stopping by! 👋
 
-![](https://komarev.com/ghpvc/?username=yXuTiany1&style=flat-square)
+![](https://komarev.com/ghpvc/?username=yXuTiany1&style=flat-square&label=VISITOR+VIEWCOUNT)
 
 - 🔭 I’m passionate about .... AND coffee ☕️
 - 🚀 I’m currently working on ...
