@@ -2,17 +2,13 @@
 
 ![](https://komarev.com/ghpvc/?username=yXuTiany1&style=flat-square&label=VISITOR+VIEWS)
 
-- 🔭 I’m passionate about .... AND coffee ☕️
-- 🚀 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
-
-
-
-
-
-
+- 🔭 I’m passionate about how deep learning can fulfill people's needs
+- 🚀 I’m currently working on:
+    - onPoint, an A.I. powered summarization web app
+    - spaceship Titanic Kaggle dataset
+- 🌱 I’m currently learning PyTorch
+- 📫 How to reach me: Feel free to connect with me for new ideas related to M.L. projects, data analysis etc. via => tiany12138@gmail.com
+- ☕️ Fun fact: I LOVE coffee 
 
 
 
