@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=yXuTiany1&style=flat-square&label=VISITOR+VIEWS)
 
-- 🔭 I’m passionate about the intersection between deep learning and our everyday needs
+- 🔭 I’m passionate about the intersection between deep learning with our everyday lives
 - 🚀 I’m currently working on:
     - onPoint, an A.I. powered summarization web app
     - spaceship Titanic Kaggle dataset
