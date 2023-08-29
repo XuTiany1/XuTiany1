@@ -8,7 +8,7 @@
     - spaceship Titanic Kaggle dataset
 - 🌱 I’m currently learning PyTorch
 - 📫 How to reach me: Feel free to connect with me for new ideas related to M.L. projects, data analysis etc. via => tiany12138@gmail.com
-- ☕️ Fun fact: I LOVE coffee 
+- ☕️ Fun fact: I LOVE coffee!
 
 
 
