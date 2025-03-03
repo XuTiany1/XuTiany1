@@ -3,11 +3,9 @@
 ![](https://komarev.com/ghpvc/?username=yXuTiany1&style=flat-square&label=VISITOR+VIEWS)
 
 - 🔭 I’m passionate about the intersection between deep learning with our everyday lives
-- 🚀 I’m currently working on:
-    - onPoint, an A.I. powered summarization web app (updating to incorporate video transcript)
-- 🌱 I’m currently learning PyTorch   
-- 📫 How to reach me: Feel free to connect with me for new ideas related to M.L. projects, data analysis etc. via => tiany12138@gmail.com
-- ☕️ Fun fact: I LOVE coffee!
+- 🚀 I’m currently working on some interesting stuff regarding model reasoning and multi-lingual nlp
+- 📫 How to reach me: Feel free to connect with me for new ideas related to M.L. projects etc. via => tiany12138@gmail.com
+- ☕️ Fun fact: Coffee addict :)
 
 
 
